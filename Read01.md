@@ -13,9 +13,9 @@ To create a responsive website, we have to use "meta" tag to all your web pages.
 
 # CSS Layout - float and clear
 
-= The CSS float property specifies how an element should float.
+- The CSS float property specifies how an element should float.
 
--The CSS clear property specifies what elements can float beside the cleared element and on which side.
+- The CSS clear property specifies what elements can float beside the cleared element and on which side.
 
 ### Example how to use float .. 
 
