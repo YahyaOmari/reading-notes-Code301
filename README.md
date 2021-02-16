@@ -5,8 +5,10 @@ My name is Yahya, I am 22 years old and I am a fresh graduate from university of
 
 # Code 201 Reading Notes:
 
-[2/12/2020 Prep Work](Read01.md)
+[2/12/2020 SMACSS and Responsive Web Design](Read01.md)
 
-[2/14/2020 Prep Work](Read02.md)
+[2/14/2020 jQuery, Events, and The DOM](Read02.md)
 
-[2/15/2020 Prep Work](Read03.md)
+[2/15/2020 Flexbox and Templating](Read03.md)
+
+[2/16/2020 Responsive Web Design and Regular Expressions](Read04.md)
