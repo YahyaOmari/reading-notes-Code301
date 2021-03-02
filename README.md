@@ -30,3 +30,5 @@ My name is Yahya, I am 22 years old and I am a fresh graduate from university of
 [2/28/2020 EJS Partial ](Read12.md)
 
 [3/1/2020 Sending from Data](Read13.md)
+
+[3/2/2020 Database normalization](Read14.md)
